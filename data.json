@@ -2,267 +2,263 @@
   "masthead": {
     "date_iso": "2026-05-23",
     "date_long": "Samedi 23 mai 2026",
-    "edition": "N° 142",
+    "edition": "N° 143",
     "place": "Londres / Paris"
   },
   "impact_lede": {
-    "headline_html": "Le matin se lève sur une Europe qui <em>compte ses coûts</em> — entre la copie budgétaire de Bercy et le retour d'inflation à Londres.",
+    "headline_html": "Trois géants de l'IA visent Wall Street au même moment — pendant que <em>Pékin teste les eaux</em> de Taïwan.",
     "body": [
-      "Paris discute un cadrage budgétaire 2027 plus serré que prévu, Londres digère une inflation des services qui ne décroche pas, et Francfort prépare déjà le terrain pour une nouvelle baisse de taux en juin. À l'autre bout du fil, Washington et Pékin négocient à bas bruit le prochain palier tarifaire — la séance européenne s'ouvrira sur cette toile de fond.",
-      "Sur les marchés, l'ambiance reste celle d'une attente prudente : les futures sont calmes, les rendements souverains glissent doucement, et le sterling consolide après deux séances de fermeté. Rien de spectaculaire, mais beaucoup de signaux à lire entre les lignes."
+      "La séance de lundi s'ouvrira sur deux fronts simultanés. D'un côté, l'économie de l'IA prend corps : SpaceX, OpenAI et Anthropic préparent leur introduction en Bourse dans la même fenêtre, Universal Music Group vient de signer avec TikTok un accord pluriannuel à clauses IA renforcées — moins de quarante-huit heures après son accord historique avec Spotify. La course aux capitaux la plus chargée depuis 2021.",
+      "De l'autre, la géopolitique reprend sa place : la Chine a déployé plus de cent navires dans les eaux régionales de Taïwan, l'Iran accuse Washington de saboter les négociations à la veille de frappes américaines anticipées, et le pétrole tient au-dessus de 80 dollars. À Paris, Édouard Philippe s'installe comme le favori des sondages 2027 ; à Londres, Rachel Reeves multiplie les signaux pour conserver Bercy sous une nouvelle direction travailliste."
     ],
     "briefing": [
-      "Le projet de loi de finances 2027 sera examiné en commission mercredi, avec un effort de 32 Md€ désormais consolidé.",
-      "L'inflation des services au Royaume-Uni reste accrochée à 4,8 % — la BoE reverra sa courbe le 12 juin.",
-      "Christine Lagarde s'exprime à 14 h à Sintra : la dernière fenêtre avant la décision du 6 juin."
+      "SpaceX, OpenAI et Anthropic préparent simultanément leur IPO — Wall Street face à sa plus grosse \"bake-off\" depuis quatre ans.",
+      "Universal Music Group signe un accord pluriannuel avec TikTok, avec clauses IA renforcées et coopération anti-deepfake.",
+      "La Chine a déployé plus de 100 navires dans les eaux régionales de Taïwan — l'escalade la plus visible depuis 2024."
     ]
   },
   "region_france": [
     {
-      "source": "Les Échos",
-      "time": "il y a 1 h",
-      "headline": "Bercy resserre la copie budgétaire 2027 : 32 Md€ d'effort consolidé, dont 18 sur la dépense",
-      "summary": "Le ministère des Finances finalise un cadrage plus austère que la lettre plafond, avec une nouvelle revue des dépenses sociales et une révision des niches fiscales sur l'épargne.",
-      "why": "Le déclencheur du prochain bras de fer politique : le PS conditionne sa non-censure à un effort réparti, le RN à l'absence de hausses d'impôts. Le texte tient ou tombe ici.",
+      "source": "France Info",
+      "time": "il y a 3 h",
+      "headline": "Stellantis-Dongfeng : l'usine de Rennes-La Janais produira un modèle du groupe chinois",
+      "summary": "Antonio Filosa, directeur général de Stellantis, défend un \"partenariat gagnant-gagnant\" qui doit sécuriser la charge de l'usine bretonne. Premier transfert industriel concret de la nouvelle alliance.",
+      "why": "Le geste industriel le plus tangible de la stratégie chinoise de Stellantis. Il fixe aussi un précédent : un constructeur européen confie une usine française à un partenaire chinois.",
       "large": true,
       "extra": {
         "body": [
-          "Selon trois sources concordantes au ministère, l'effort se composerait d'environ 18 milliards d'euros d'économies sur la dépense — dont une fraction sur l'assurance-maladie et la branche famille — et d'une fermeture progressive de niches sur l'épargne salariale et le PER, à hauteur de 8 milliards.",
-          "Le cadrage doit être validé en conseil de cabinet mardi, puis examiné en commission des finances mercredi. Le calendrier est tenu mais étroit : un amendement majeur au-delà de juillet ferait dérailler la trajectoire 2027 affichée à Bruxelles."
+          "L'accord, signé en début de semaine et précisé samedi par M. Filosa, prévoit qu'au moins un modèle Dongfeng sortira des lignes de Rennes-La Janais. La cadence et le calendrier précis n'ont pas été communiqués, mais le directeur général a évoqué un démarrage \"dans les meilleurs délais\".",
+          "Pour Bercy et la région Bretagne, c'est un soulagement immédiat — l'avenir de l'usine, qui emploie environ 2 000 personnes, était en suspens depuis l'annonce du recentrage de la marque Peugeot. Pour les concurrents européens, c'est un signal stratégique : la frontière entre constructeur \"chinois\" et \"européen\" se brouille industriellement."
         ],
-        "pullquote": "« On peut tenir 32 milliards. On ne tiendra pas 38. » — un conseiller à Bercy",
-        "author": "Service économique",
-        "link": "#"
+        "link": "https://www.franceinfo.fr/economie/automobile/stellantis-un-partenariat-gagnant-gagnant-veut-rassurer-son-directeur-general-antonio-filosa-qui-ouvre-son-usine-de-rennes-a-un-groupe-chinois_8023133.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     },
     {
-      "source": "Le Monde",
-      "time": "il y a 2 h",
-      "headline": "Énergie : EDF accélère sur les SMR, premier site retenu en Moselle",
-      "summary": "Le groupe public confirme la sélection du site de Moselle pour le premier réacteur Nuward de série, avec une mise en service visée pour 2034.",
-      "why": "Le dossier industriel le plus important de l'année pour la filière nucléaire française — et le test grandeur réelle de la nouvelle politique énergétique européenne.",
+      "source": "BBC World",
+      "time": "il y a 5 h",
+      "headline": "Présidentielle 2027 : Édouard Philippe en tête des sondages, seul à battre Le Pen et Mélenchon",
+      "summary": "Les derniers sondages désignent l'ex-Premier ministre centre-droit comme le seul candidat capable de l'emporter contre Marine Le Pen ou Jean-Luc Mélenchon. Une dynamique qui se confirme à vingt mois du scrutin.",
+      "why": "Le centre-droit français trouve une figure de rassemblement crédible — une variable que les marchés européens commenceront à intégrer dès cet été.",
       "extra": {
         "body": [
-          "Le choix de la Moselle prend le pas sur Tricastin, qui restera site secondaire. L'enveloppe d'investissement, estimée entre 1,2 et 1,5 milliard d'euros pour la première tranche, sera partiellement financée par le plan capacités de la Commission européenne.",
-          "Un appel à manifestation d'intérêt sera publié en juin pour les industriels-clients : Air Liquide, ArcelorMittal et un consortium chimique du Rhin sont déjà cités."
+          "Le sondage Ifop-Fiducial publié vendredi place Édouard Philippe en tête des intentions de vote au premier tour à 28 %, devant Marine Le Pen (26 %) et Jean-Luc Mélenchon (18 %). C'est la première fois qu'un candidat non-RN passe la barre des 25 % depuis l'automne dernier.",
+          "Le parti Horizons devra trancher avant l'automne entre une candidature autonome et une primaire élargie à Renaissance et aux Républicains. La question structurera tout le débat de rentrée."
         ],
-        "link": "#"
+        "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss"
       }
     },
     {
-      "source": "AFP éco",
-      "time": "il y a 4 h",
-      "headline": "Stellantis : départ du directeur Europe, marque Peugeot recentrée sur l'électrique",
-      "summary": "Le constructeur annonce un nouvel organigramme, avec un patron unique pour Peugeot, Citroën et DS, et une accélération sur les plateformes STLA Medium.",
-      "why": "Réorganisation à fort signal industriel : confirme la priorité européenne du groupe au moment où le marché chinois se referme.",
+      "source": "France Info",
+      "time": "il y a 1 j",
+      "headline": "Soutien à l'activité économique : la nécessité d'une révolution fiscale revient au débat",
+      "summary": "Plusieurs économistes appellent à une refonte structurelle de la fiscalité productive — de l'IS à la CFE — au moment où le PLF 2027 entre en discussion.",
+      "why": "Le débat technique de l'année. Les arbitrages pris d'ici l'automne décideront de la trajectoire de compétitivité française jusqu'en 2030.",
       "extra": {
         "body": [
-          "Cette réorganisation, annoncée lundi par John Elkann, met fin à la double tutelle marques/régions qui avait été instaurée en 2021. Le nouveau patron des marques françaises, Jean-Philippe Imparato, prend la responsabilité directe des plans produits 2027–2030.",
-          "Stellantis confirme par ailleurs un investissement de 2,1 milliards d'euros sur la plateforme STLA Medium, qui équipera dix-sept modèles d'ici 2028, dont la prochaine 308."
+          "Le débat oppose deux écoles : ceux qui défendent un choc d'attractivité par la baisse de l'IS à 22 % et une simplification radicale des dispositifs locaux ; et ceux qui plaident pour redéployer les niches existantes vers l'industrie et la R&D, sans baisse de taux affichée.",
+          "Bercy travaille discrètement à un troisième scénario hybride. Les premiers arbitrages remonteront à Matignon début juin."
         ],
-        "link": "#"
+        "link": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/soutien-a-l-activite-economique-vers-une-necessaire-revolution-fiscale_7993040.html#xtor=RSS-3-%5Bgeneral%5D"
       }
     }
   ],
   "region_uk": [
     {
-      "source": "Financial Times",
-      "time": "il y a 1 h",
-      "headline": "Inflation des services à 4,8 % : la Bank of England face à un sentier plus étroit",
-      "summary": "Les services britanniques continuent de surprendre à la hausse. Les marchés à terme repoussent la prochaine baisse de taux à août, contre juin prévu il y a deux semaines.",
-      "why": "C'est le point de bascule de la politique monétaire britannique cette année : si juin saute, le cycle de baisse risque d'être plus court que ce que les marchés escomptent.",
+      "source": "BBC Business",
+      "time": "il y a 2 h",
+      "headline": "Morrisons ferme 100 magasins de proximité — la facture de la politique gouvernementale",
+      "summary": "Le distributeur britannique invoque \"des hausses de coûts significatives résultant de choix de politique gouvernementale\". Plusieurs centaines d'emplois sont en jeu.",
+      "why": "Premier vrai sinistre industriel attribué directement par un patron du retail aux mesures Reeves. Le signal politique compte autant que le chiffre.",
       "large": true,
       "extra": {
         "body": [
-          "Le détail publié par l'ONS montre une persistance dans les services à intensité de main-d'œuvre — restauration, hôtellerie, soins à la personne — où les hausses salariales restent autour de 5,5 % en glissement annuel.",
-          "Andrew Bailey, devant la Treasury Select Committee à 15 h, devrait défendre une approche \"meeting by meeting\". Mais plusieurs membres extérieurs du MPC ont signalé en privé qu'une baisse en juin n'est plus le scénario central."
+          "Morrisons cible les magasins de proximité (\"Daily\") qui n'ont pas atteint leurs objectifs de marge. Le distributeur n'a pas communiqué de chiffre précis sur les emplois, mais Sky News évoque \"plusieurs centaines\" de postes.",
+          "L'attribution explicite aux \"choix de politique gouvernementale\" — comprendre : hausse du National Insurance employeur dans le Budget d'automne — marque une rupture de ton dans le retail britannique, où les directions s'étaient jusque-là gardées de pointer le gouvernement nommément."
         ],
-        "pullquote": "« Le risque d'un cycle de baisses trop court est désormais aussi réel que celui d'un cycle trop long. » — Catherine Mann, MPC",
-        "link": "#"
+        "link": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss"
       }
     },
     {
-      "source": "Bloomberg UK",
-      "time": "il y a 3 h",
-      "headline": "City : Schroders et M&G en discussions exploratoires de fusion",
-      "summary": "Les conseils des deux gestionnaires d'actifs auraient mandaté Rothschild et Lazard pour évaluer un rapprochement, créant un acteur de £1 200 Md d'encours.",
-      "why": "La consolidation de la gestion d'actifs britannique entre enfin dans sa phase active — sous la pression directe des sorties nettes de capitaux post-Brexit.",
+      "source": "Sky News",
+      "time": "il y a 4 h",
+      "headline": "\"Great British Summer Savings\" : Rachel Reeves dévoile son paquet de baisses de TVA",
+      "summary": "La chancelière annonce une baisse de TVA sur les repas enfants et les loisirs, plus des transports gratuits pour les familles. Un dispositif explicitement comparé au \"Eat Out to Help Out\" de l'ère Sunak.",
+      "why": "Geste politique de fin de printemps qui en dit long sur la pression intérieure : Reeves cherche un succès grand public mesurable avant la rentrée.",
       "extra": {
         "body": [
-          "Les deux groupes refusent de commenter, mais trois sources proches du dossier confirment des contacts depuis février. Le schéma envisagé serait celui d'une fusion entre égaux, avec un siège londonien maintenu et une cotation primaire à Londres.",
-          "L'opération devra obtenir le feu vert de la FCA et, plus délicat, de la Prudential Regulation Authority sur les expositions assurantielles de M&G."
+          "Le paquet comprend trois mesures : TVA à 0 % sur les menus enfants en restauration jusqu'à fin août, TVA à 5 % sur les billets de parcs et musées familiaux, et bus gratuits pour les moins de 18 ans accompagnés.",
+          "Les restaurateurs interrogés par le Guardian estiment que l'effet sur leur activité sera marginal — \"un soundbite\" selon plusieurs voix du secteur. Pour Reeves, l'objectif est moins économique que politique."
         ],
-        "link": "#"
+        "link": "https://news.sky.com/story/back-to-the-future-as-rachel-reeves-fires-up-summer-spending-reminiscent-of-rishi-sunaks-covid-scheme-13546746"
       }
     },
     {
-      "source": "The Times",
-      "time": "il y a 5 h",
-      "headline": "Défense : Londres confirme £6,2 Md pour la prochaine génération de frégates Type 26",
-      "summary": "Le contrat passe à BAE Systems et étend la coopération industrielle avec le Canada et l'Australie dans le cadre du programme Global Combat Ship.",
-      "why": "Au-delà de l'industrie, c'est un signal clair sur la posture britannique vis-à-vis de l'AUKUS et de la sécurité de l'Atlantique Nord.",
+      "source": "The Guardian",
+      "time": "hier soir",
+      "headline": "Rachel Reeves prépare son maintien à Bercy en cas de succession à Downing Street",
+      "summary": "Ses proches incitent les députés Labour à la soutenir si Keir Starmer venait à être remplacé, en la présentant comme la seule garantie de stabilité budgétaire.",
+      "why": "Premier mouvement organisé de positionnement au sein du Labour. Le marché du gilt suit ce dossier de très près — Reeves est crédible auprès des investisseurs.",
       "extra": {
         "body": [
-          "Le contrat ferme couvre trois bâtiments supplémentaires (HMS Birmingham, HMS Sheffield, HMS Newcastle), avec option pour deux navires de tête de la classe Type 83 — l'évolution surface du programme britannique de combat naval.",
-          "L'emploi associé est estimé à 4 300 postes directs sur la Clyde, plus 7 800 chez les sous-traitants, dont Babcock, Rolls-Royce et Thales UK."
+          "Les soutiens de Mme Reeves font discrètement valoir auprès du backbench que tout changement à Bercy en pleine mandature provoquerait une réaction immédiate des marchés obligataires britanniques, déjà sous tension depuis le mini-budget Truss de 2022.",
+          "L'argument fonctionne : plusieurs députés Labour habituellement frondeurs ont indiqué qu'ils soutiendraient son maintien, même en cas de changement de Premier ministre."
         ],
-        "link": "#"
+        "link": "https://www.theguardian.com/politics/2026/may/23/rachel-reeves-makes-case-chancellor-reports-andy-burnham-favour-ed-miliband"
       }
     }
   ],
   "world": [
     {
-      "region": "Bruxelles",
-      "head": "Le paquet \"Capacités Défense\" voté par le Parlement européen",
-      "sub": "Mobilisation de 150 Md€ via la BEI sur cinq ans — premier vrai outil commun."
-    },
-    {
-      "region": "Washington",
-      "head": "La Fed temporise : minutes prudentes, juin écarté",
-      "sub": "Le marché ne table plus que sur deux baisses d'ici décembre, contre trois en avril."
-    },
-    {
       "region": "Pékin",
-      "head": "Stimulus immobilier élargi aux villes de second rang",
-      "sub": "Quatorze métropoles supplémentaires — la PBoC veut éteindre le risque déflationniste."
+      "head": "La Chine déploie plus de 100 navires dans les eaux de Taïwan",
+      "sub": "L'escalade la plus visible depuis 2024 — Taipei dénonce, Washington observe."
     },
     {
-      "region": "Kiev",
-      "head": "Accord bilatéral de production de drones avec Berlin",
-      "sub": "Rheinmetall et UkrSpec construiront une usine commune près de Lviv."
+      "region": "Téhéran",
+      "head": "L'Iran accuse Washington de saboter les négociations — frappes US anticipées",
+      "sub": "Selon CBS et Axios, de nouvelles frappes américaines en Iran seraient en préparation."
     },
     {
-      "region": "Tokyo",
-      "head": "Banque du Japon : Ueda ouvre la porte à une nouvelle hausse en juillet",
-      "sub": "Le yen se redresse de 1,1 % face au dollar dans la foulée du discours."
+      "region": "Moscou",
+      "head": "Poutine promet des représailles après une frappe ukrainienne sur un dortoir étudiant",
+      "sub": "Kiev affirme avoir visé l'unité de drones Rubicon — l'escalade se réinstalle."
+    },
+    {
+      "region": "New Delhi",
+      "head": "Rubio vend de l'énergie à l'Inde alors que le choc pétrolier iranien dure",
+      "sub": "Le chef de la diplomatie américaine offre un appui énergétique — Delhi reste prudent."
+    },
+    {
+      "region": "Dakar",
+      "head": "Le président sénégalais limoge son Premier ministre et dissout le gouvernement",
+      "sub": "Crise institutionnelle sur fond de crise de la dette — la primature reste vacante."
     }
   ],
   "market_snapshot": [
     {
       "name": "CAC 40",
-      "val": "8 214,32",
-      "chg": "+0,42 %",
+      "val": "8 115,75",
+      "chg": "+0.37 %",
       "dir": "up"
     },
     {
       "name": "FTSE 100",
-      "val": "8 537,11",
-      "chg": "+0,18 %",
+      "val": "10 466,30",
+      "chg": "+0.22 %",
       "dir": "up"
     },
     {
       "name": "EuroStoxx 50",
-      "val": "5 412,84",
-      "chg": "+0,29 %",
+      "val": "6 019,45",
+      "chg": "+0.99 %",
       "dir": "up"
     },
     {
       "name": "DAX",
-      "val": "19 482,7",
-      "chg": "−0,14 %",
-      "dir": "down"
+      "val": "24 888,56",
+      "chg": "+1.15 %",
+      "dir": "up"
     },
     {
       "name": "S&P 500",
-      "val": "6 048,93",
-      "chg": "+0,07 %",
+      "val": "7 473,47",
+      "chg": "+0.37 %",
       "dir": "up"
     },
     {
       "name": "Nikkei 225",
-      "val": "40 921,4",
-      "chg": "−0,33 %",
-      "dir": "down"
+      "val": "63 339,07",
+      "chg": "+2.68 %",
+      "dir": "up"
     }
   ],
   "markets_stories": [
     {
-      "source": "Salle des Marchés",
-      "time": "ce matin",
-      "headline": "Pourquoi les marchés sont calmes — et pourquoi ce calme ne devrait pas durer",
-      "summary": "Trois jours sans direction nette en Europe, un VIX à 12,4, des spreads de crédit au plus bas depuis 2021 : la complaisance s'installe juste avant un calendrier macro chargé.",
-      "why": "Le scénario consensuel — désinflation linéaire, baisses de taux ordonnées, atterrissage en douceur — est désormais entièrement pricé. Toute déviation se paiera cher.",
+      "source": "Financial Times",
+      "time": "il y a 2 h",
+      "headline": "SpaceX, OpenAI, Anthropic : la triple IPO qui va tester les limites du boom de l'IA",
+      "summary": "Elon Musk, Sam Altman et Dario Amodei vont se disputer en même temps les capitaux les plus profonds de Wall Street. Une configuration inédite depuis le pic de 2021.",
+      "why": "Le test ultime du cycle IA. Si les trois passent simultanément, c'est le sommet validé du cycle ; si l'une trébuche, c'est le signal de réévaluation que les bears attendent.",
       "large": true,
       "extra": {
         "body": [
-          "Le décalage est saisissant entre, d'un côté, des indicateurs de volatilité au plancher et, de l'autre, un calendrier macro qui concentre en trois semaines la décision BCE du 6 juin, le rapport emploi américain le 7, la BoE le 12 et la Fed le 18.",
-          "Trois positions de marché sont aujourd'hui particulièrement crowded : long obligations souveraines courtes (15-25 ans), short volatilité actions, et long Magnificent Seven via options. Toutes trois souffriraient d'un choc de réévaluation des taux, même modeste.",
-          "L'argument d'une couverture optionnelle bon marché — VIX juin à 14 — n'a sans doute jamais été aussi convaincant qu'aujourd'hui."
+          "Les trois opérations se chiffreraient ensemble à plus de 300 milliards de dollars en valorisation cumulée. Les book-runners pressentis — Goldman Sachs, Morgan Stanley, JPMorgan — sont sollicités en parallèle, ce qui crée des conflits d'allocation d'équipes sans précédent.",
+          "La question pour les investisseurs n'est plus \"faut-il croire au cycle IA\" mais \"laquelle des trois propositions de valeur croire\". SpaceX vend de l'infrastructure spatiale et terrestre ; OpenAI vend une plateforme grand public ; Anthropic vend une infrastructure d'IA pour l'entreprise. Trois métiers, trois logiques de marge."
         ],
-        "pullquote": "« La protection n'a jamais été aussi peu chère, à un moment où elle n'a jamais semblé aussi peu nécessaire. C'est précisément ce qui doit alerter. »",
-        "link": "#"
+        "pullquote": "« On n'a pas vu trois introductions à dix chiffres ouvrir leurs livres dans la même fenêtre depuis l'ère dot-com. La discipline d'allocation sera cruciale. »",
+        "link": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12"
       }
     },
     {
-      "source": "Bloomberg",
-      "time": "il y a 2 h",
-      "headline": "Crédit : les spreads investment grade européens au plus bas depuis 2021",
-      "summary": "L'indice Bloomberg IG Euro se resserre à 92 pb — niveau qui historiquement précède de six à neuf mois une réouverture brutale.",
-      "why": "Le marché du crédit envoie le signal opposé aux fondamentaux : croissance européenne molle, défauts spéculatifs en hausse. Un classique de fin de cycle.",
-      "extra": {
-        "body": [
-          "Le ratio offre/demande sur le primaire reste sursouscrit de 3,8x en moyenne ce mois-ci, traduisant un excès de liquidité chez les institutionnels. Les fonds de pension néerlandais et britanniques sont les acheteurs marginaux.",
-          "Mais le segment BBB- — porte d'entrée vers le haut rendement — montre déjà des signes de fatigue : trois émissions retirées la semaine dernière."
-        ],
-        "link": "#"
-      }
-    },
-    {
-      "source": "Reuters",
+      "source": "Financial Times",
       "time": "il y a 4 h",
-      "headline": "Pétrole : Brent au-dessus de 84 $, prime géopolitique réinjectée",
-      "summary": "Les frappes croisées Israël/Iran sur des sites énergétiques régionaux relancent la prime de risque, alors que l'OPEP+ se réunit le 1er juin.",
-      "why": "Une persistance au-dessus de 85 $ change l'équation des banques centrales — particulièrement pour la BCE, qui voit déjà la désinflation des biens s'essouffler.",
+      "headline": "Le glissement obligataire réveille les craintes des \"bond vigilantes\"",
+      "summary": "Plusieurs gérants institutionnels expriment ouvertement leur inquiétude sur la trajectoire de l'endettement souverain — le mot \"vigilantes\" refait surface dans les notes du sell-side.",
+      "why": "Quand les bond vigilantes redeviennent une thèse de marché, c'est le moment où les banques centrales perdent une partie du contrôle. À surveiller de très près.",
       "extra": {
         "body": [
-          "Les flux d'options montrent une demande inhabituelle pour des calls Brent à 95 et 100 $ pour août — un signal que le marché commence à intégrer un scénario d'escalade.",
-          "L'OPEP+ devra trancher le 1er juin sur le maintien ou non des coupes volontaires de 2,2 mb/j. L'Arabie saoudite a privé indiqué qu'elle privilégiait désormais une normalisation graduelle."
+          "La thèse défendue par certains gérants : les courbes longues souveraines US, britannique et française intègrent insuffisamment le risque de déficits structurellement élevés. Le 30 ans américain teste désormais durablement les 5,2 %.",
+          "Pour les portefeuilles européens, le risque n'est pas tant un krach qu'un repricing graduel — qui érode silencieusement la performance des fonds long-duration depuis le début d'année."
         ],
-        "link": "#"
+        "link": "https://www.ft.com/content/e16e6cdf-e824-4bc1-a199-e42746e602bb"
+      }
+    },
+    {
+      "source": "Financial Times",
+      "time": "hier soir",
+      "headline": "AS Watson (Superdrug) confirme sa double cotation 30 Md$ à Hong Kong et Londres",
+      "summary": "Le propriétaire de Superdrug vise une opération combinée avant la fin 2026. Une rare bonne nouvelle pour la place londonienne, qui peine à attirer des dossiers majeurs.",
+      "why": "Londres regagne un dossier après des années de fuite des cotations vers New York. Le signal compte pour la City — et pour la trajectoire des frais de listing UK.",
+      "extra": {
+        "body": [
+          "La structure envisagée serait une dual primary listing — la plus engageante pour le marché londonien, qui aurait alors un statut équivalent à Hong Kong et non un rôle de simple complément. C'est le format que la FCA cherche depuis deux ans à attirer.",
+          "L'opération, si elle se concrétise, serait la plus grosse IPO à Londres depuis Glencore en 2011."
+        ],
+        "link": "https://www.ft.com/content/52677cd0-7edb-4c77-8a8b-7ea252e9eeba"
       }
     }
   ],
   "movers": [
     {
-      "name": "Rheinmetall",
-      "ticker": "RHM",
-      "price": "612,40 €",
-      "chg": "+4,8 %",
-      "dir": "up"
-    },
-    {
       "name": "ASML",
       "ticker": "ASML",
-      "price": "892,10 €",
-      "chg": "+2,3 %",
+      "price": "1 409.00 €",
+      "chg": "+4.74 %",
       "dir": "up"
     },
     {
       "name": "Stellantis",
-      "ticker": "STLA",
-      "price": "13,82 €",
-      "chg": "−3,1 %",
+      "ticker": "STLAM",
+      "price": "6.51 €",
+      "chg": "+3.19 %",
+      "dir": "up"
+    },
+    {
+      "name": "BP",
+      "ticker": "BP",
+      "price": "551.2 p",
+      "chg": "−2.48 %",
       "dir": "down"
     },
     {
-      "name": "Burberry",
-      "ticker": "BRBY",
-      "price": "972 p",
-      "chg": "−2,7 %",
+      "name": "BT Group",
+      "ticker": "BT-A",
+      "price": "224.7 p",
+      "chg": "+2.37 %",
+      "dir": "up"
+    },
+    {
+      "name": "TotalEnergies",
+      "ticker": "TTE",
+      "price": "78.65 €",
+      "chg": "−2.01 %",
       "dir": "down"
     },
     {
       "name": "Verallia",
       "ticker": "VRLA",
-      "price": "33,40 €",
-      "chg": "+1,9 %",
-      "dir": "up"
-    },
-    {
-      "name": "BT Group",
-      "ticker": "BT.A",
-      "price": "148,2 p",
-      "chg": "+1,6 %",
+      "price": "20.12 €",
+      "chg": "+1.51 %",
       "dir": "up"
     }
   ],
@@ -272,423 +268,337 @@
       "ticker": "ASML",
       "rating": "Strong Buy",
       "ratingClass": "r-strong-buy",
-      "note": "Morgan Stanley relève l'objectif à 1 050 € après les commentaires sur la demande EUV chinoise — l'argument cyclique l'emporte enfin sur le risque export.",
-      "from": "Morgan Stanley · objectif 1 050 € (vs 880 €)"
+      "note": "Le titre prend +4,7 % vendredi — Morgan Stanley confirme son objectif relevé à 1 600 € après les commentaires sur la demande EUV chinoise.",
+      "from": "Morgan Stanley · objectif 1 600 €"
     },
     {
-      "stock": "Nvidia",
-      "ticker": "NVDA",
+      "stock": "Anthropic (pre-IPO)",
+      "ticker": "—",
       "rating": "Hold",
       "ratingClass": "r-hold",
-      "note": "DA Davidson dégrade : non pas sur les fondamentaux, mais sur la concentration extrême du sentiment. Un signal contrarien à suivre.",
-      "from": "DA Davidson · de Buy à Hold"
+      "note": "Les premières notes secondaires sortent à la veille des roadshows. Position d'attente : il faut voir la fourchette de prix avant d'avoir un avis.",
+      "from": "Note sectorielle Bernstein"
     },
     {
-      "stock": "LVMH",
-      "ticker": "MC",
+      "stock": "Stellantis",
+      "ticker": "STLA",
       "rating": "Buy",
       "ratingClass": "r-buy",
-      "note": "HSBC réitère, jugeant le creux de la consommation chinoise désormais intégré dans le cours. Le pari est sur Sephora et Tiffany pour 2026.",
-      "from": "HSBC · objectif 780 €"
+      "note": "L'accord Dongfeng / Rennes sécurise la charge industrielle européenne et lève une partie du risque chinois. RBC relève son objectif.",
+      "from": "RBC Capital · objectif 8,80 €"
     },
     {
       "stock": "BP",
       "ticker": "BP",
       "rating": "Sell",
       "ratingClass": "r-sell",
-      "note": "Jefferies passe vendeur, jugeant la nouvelle stratégie de retour aux hydrocarbures insuffisante pour combler l'écart de valorisation avec Shell.",
-      "from": "Jefferies · de Hold à Sell"
+      "note": "Le titre cède −2,5 %. Jefferies maintient sa thèse : la stratégie de retour aux hydrocarbures peine à convaincre face à la prime que conserve Shell.",
+      "from": "Jefferies · maintien Sell"
+    },
+    {
+      "stock": "Universal Music Group",
+      "ticker": "UMG",
+      "rating": "Buy",
+      "ratingClass": "r-buy",
+      "note": "L'accord TikTok à clauses IA fait converger les analystes — la monétisation IA passe de scénario lointain à ligne budgétaire 2027.",
+      "from": "JPMorgan · objectif 38 €"
+    },
+    {
+      "stock": "Live Nation",
+      "ticker": "LYV",
+      "rating": "Strong Sell",
+      "ratingClass": "r-strong-sell",
+      "note": "La nouvelle offensive des Attorneys General visant un démembrement structurel relance le risque d'exécution forcée. Goldman dégrade.",
+      "from": "Goldman Sachs · de Hold à Strong Sell"
     },
     {
       "stock": "Verallia",
       "ticker": "VRLA",
       "rating": "Buy",
       "ratingClass": "r-buy",
-      "note": "Une initiation discrète à suivre : Oddo BHF souligne la consolidation du marché européen du verre d'emballage et le potentiel sur la prime energy-efficient packaging.",
-      "from": "Oddo BHF · initiation, objectif 41 €"
-    },
-    {
-      "stock": "Pluxee",
-      "ticker": "PLX",
-      "rating": "Strong Sell",
-      "ratingClass": "r-strong-sell",
-      "note": "Goldman Sachs dégrade fortement après la consultation européenne sur la dématérialisation des titres-restaurant. Un risque réglementaire mal pricé.",
-      "from": "Goldman Sachs · de Hold à Sell"
-    },
-    {
-      "stock": "Schroders",
-      "ticker": "SDR",
-      "rating": "Hold",
-      "ratingClass": "r-hold",
-      "note": "RBC maintient en attendant la clarification sur le dossier M&G — mais souligne que la cible d'EBIT 2026 reste tenable même hors fusion.",
-      "from": "RBC Capital · maintien, objectif 410 p"
+      "note": "Oddo BHF maintient son initiation : consolidation européenne du verre d'emballage + prime ESG sur le contenu recyclé.",
+      "from": "Oddo BHF · objectif 25 €"
     }
   ],
   "watch": [
     {
+      "kicker": "Macro UK",
+      "text": "Inflation services UK la semaine prochaine — toute surprise au-dessus de 4,5 % repousserait la baisse de taux BoE à septembre."
+    },
+    {
+      "kicker": "IPO",
+      "text": "Les premiers prospectus SpaceX/OpenAI sont attendus en juin — calendrier serré, fenêtre étroite avant l'été."
+    },
+    {
       "kicker": "Énergie",
-      "text": "TotalEnergies tient son AG mercredi : vote sensible sur la résolution climat portée par Follow This."
-    },
-    {
-      "kicker": "Devises",
-      "text": "Le yen au seuil psychologique des 157/$ — au-delà, le MoF a déjà laissé entendre qu'il agirait."
-    },
-    {
-      "kicker": "Macro",
-      "text": "PMI flash de la zone euro vendredi : un chiffre des services sous 51,5 ferait tomber juin pour la BCE."
+      "text": "Brent au-dessus de 80 $ malgré la décélération chinoise — la prime géopolitique iranienne devient durable."
     }
   ],
   "industry": [
     {
       "source": "Music Business Worldwide",
-      "time": "il y a 3 h",
-      "headline": "Spotify révise sa grille de royalties : nouveau seuil à 2 000 streams annuels par titre",
-      "summary": "La plateforme étend son modèle « démonétisation des micro-titres » à un seuil unifié, écartant entre 28 et 32 millions de morceaux du pool de royalties.",
-      "why": "C'est la décision la plus structurante de l'année pour les producteurs indépendants. La rémunération marginale se concentre désormais sur les catalogues à long terme.",
+      "time": "il y a 6 h",
+      "headline": "Universal Music Group et TikTok : nouvel accord pluriannuel avec clauses IA renforcées",
+      "summary": "L'accord prévoit un retrait coordonné des musiques générées par IA non autorisées, et un partage de revenus revu sur les usages assistés par IA. Premier vrai cadre commercial post-AI Act.",
+      "why": "C'est le premier accord majeur qui transforme l'IA d'enjeu réglementaire en ligne budgétaire concrète pour les majors. À analyser de près par toute la chaîne, indés inclus.",
       "large": true,
       "extra": {
         "body": [
-          "Selon les documents fournis aux labels distributeurs, la nouvelle grille prendra effet au 1er octobre 2026 et s'appliquera de manière uniforme dans tous les marchés. Le seuil précédent — 1 000 streams sur douze mois — sera doublé.",
-          "Les distributeurs DIY (DistroKid, TuneCore, CD Baby) ont demandé un délai de six mois supplémentaire pour adapter leurs interfaces, sans succès. L'IMPALA prépare une réponse coordonnée pour la mi-juin."
+          "L'accord couvre l'ensemble des marchés UMG et inclut une clause inédite : un mécanisme conjoint de détection et de retrait des contenus IA non autorisés présents sur TikTok. Le partage de revenus sur les usages \"assistés par IA\" (filtres, remix, etc.) est révisé à la hausse pour les ayants droit.",
+          "Selon plusieurs sources sectorielles, l'accord servira de gabarit aux discussions Warner-TikTok et Sony-TikTok attendues sur le deuxième semestre."
         ],
-        "pullquote": "« Cela signifie qu'un titre indépendant doit désormais générer environ 40 streams par semaine pendant un an pour exister économiquement. »",
-        "link": "#"
-      }
-    },
-    {
-      "source": "Variety",
-      "time": "il y a 5 h",
-      "headline": "Universal acquiert 60 % du catalogue de Quincy Jones Productions pour 480 M$",
-      "summary": "L'opération sécurise les droits maîtres et éditoriaux sur plus de 1 200 titres, dont les productions Jackson 1979–1995 et l'œuvre solo de QJ.",
-      "why": "La logique \"catalogue de prestige\" se poursuit, mais à des multiples plus serrés que 2022 — autour de 18x les revenus annuels, contre 24-26x à l'époque.",
-      "extra": {
-        "body": [
-          "L'acquisition inclut les masters de Thriller, Bad et Dangerous (pour la partie production), ainsi que l'intégralité du catalogue Qwest. Les héritiers conservent 40 % et les droits moraux."
-        ],
-        "link": "#"
-      }
-    },
-    {
-      "source": "Billboard Pro",
-      "time": "hier soir",
-      "headline": "AI Act musical : Bruxelles publie ses lignes directrices d'application",
-      "summary": "Le texte impose une traçabilité des données d'entraînement et un mécanisme d'opt-out granulaire — modèle par modèle, et non plateforme par plateforme.",
-      "why": "Premier cadre réglementaire mondial qui rend l'opt-out véritablement opérant. Suno, Udio et les filiales IA des majors devront documenter chaque corpus.",
-      "extra": {
-        "body": [
-          "Le délai de mise en conformité est fixé à dix-huit mois. La sanction maximale est portée à 6 % du chiffre d'affaires mondial pour les acteurs établis en Europe.",
-          "Les labels indépendants saluent un texte « plus protecteur que prévu », mais s'inquiètent du coût d'audit pour les structures de moins de cinquante salariés."
-        ],
-        "link": "#"
+        "link": "https://www.musicbusinessworldwide.com/universal-music-group-and-tiktok-strike-new-multi-year-licensing-deal-with-expanded-ai-protections-for-artists-and-songwriters/"
       }
     },
     {
       "source": "Music Ally",
-      "time": "il y a 7 h",
-      "headline": "Live Nation : la procédure antitrust américaine entre dans sa phase de discovery",
-      "summary": "Le DoJ obtient le droit d'accéder aux contrats exclusifs avec les salles de plus de 5 000 places. Le procès est désormais probable pour 2027.",
-      "why": "L'écosystème live mondial sera structuré par l'issue de ce procès. Tout producteur intervenant sur des tournées internationales doit suivre le dossier de près.",
+      "time": "il y a 8 h",
+      "headline": "États-Unis : les Attorneys General relancent l'offensive pour démanteler Live Nation / Ticketmaster",
+      "summary": "Live Nation avait conclu un règlement avec le DoJ en début de procès — mais une coalition d'Attorneys General d'États refuse de classer le dossier et plaide pour une séparation structurelle.",
+      "why": "Le combat anti-Live Nation entre dans sa phase la plus dangereuse pour le groupe. Tout producteur impliqué dans les tournées internationales doit anticiper une nouvelle géographie de la billetterie.",
       "extra": {
         "body": [
-          "Le juge fédéral a refusé la demande de Live Nation de limiter la phase de discovery aux contrats américains. Les contrats européens et britanniques sont désormais inclus dans le périmètre — un revers significatif pour la défense."
+          "L'argumentaire des AG : le règlement avec le DoJ est insuffisant pour défaire la position dominante issue de la fusion de 2010. Ils plaident pour la séparation Live Nation / Ticketmaster comme remède structurel.",
+          "Le calendrier pourrait pousser une décision avant la fin 2027 — soit avant la prochaine vague de mega-tournées européennes."
         ],
-        "link": "#"
+        "link": "https://musically.com/2026/05/22/us-attorneys-general-seek-live-nation-ticketmaster-breakup/"
+      }
+    },
+    {
+      "source": "Music Ally",
+      "time": "hier",
+      "headline": "Udio dévoile Starstruck — son app de musique générative sous licence avec les majors",
+      "summary": "Première offre IA musicale qui s'appuie explicitement sur des accords de licence avec les ayants droit, plutôt que sur du fair-use revendiqué.",
+      "why": "Le tournant que l'industrie attendait : un acteur IA majeur passe du \"on demande pardon\" au \"on demande permission\". Le standard est en train de se déplacer.",
+      "extra": {
+        "body": [
+          "Starstruck doit ouvrir au public au quatrième trimestre. Le modèle de revenus mixe abonnement consommateur (entre 12 et 24 dollars) et reversement aux ayants droit calculé selon une grille proche du streaming traditionnel.",
+          "Pour Suno, c'est un défi direct : si Udio prouve qu'on peut faire de la \"clean IA musicale\", la pression réglementaire et judiciaire sur les modèles non licenciés montera d'un cran."
+        ],
+        "link": "https://musically.com/2026/05/22/udio-reveals-details-of-its-licensed-ai-music-app-starstruck/"
+      }
+    },
+    {
+      "source": "Music Ally",
+      "time": "il y a 1 j",
+      "headline": "Canada : le prélèvement sur les services de streaming triplé à 15 %",
+      "summary": "Le CRTC confirme le passage de 5 % à 15 % du prélèvement sur les revenus canadiens des plateformes de streaming musical et vidéo. Les plateformes promettent des recours.",
+      "why": "Précédent réglementaire majeur. Si Ottawa tient sa ligne, c'est un signal pour la Commission européenne, qui étudie un dispositif équivalent dans la révision du paquet audiovisuel.",
+      "extra": {
+        "body": [
+          "Spotify et YouTube Music ont d'ores et déjà fait savoir qu'ils répercuteraient une partie de ce prélèvement sur leurs prix d'abonnement canadiens, à compter du 1er septembre.",
+          "Le rendement attendu pour le Fonds de la musique canadien est de 320 millions de dollars annuels — une bouffée d'oxygène pour la production locale."
+        ],
+        "link": "https://musically.com/2026/05/22/canadas-levy-on-global-streaming-services-has-tripled-to-15/"
       }
     }
   ],
   "atelier": {
     "plugins": [
       {
-        "name": "u-he Bazille 2",
-        "tag": "Sortie",
-        "tagClass": "hot",
-        "desc": "Refonte complète du synthé modulaire d'Urs Heckmann : nouveau moteur d'oscillateurs à FM/PD croisée, modulation polyrythmique au pas, ré-écriture du moteur UI.",
+        "name": "W.A. Production Orchid",
+        "tag": "Gratuit",
+        "tagClass": "free",
+        "desc": "Chorus polyvalent au caractère vintage — normalement 39,90 $, gratuit chez VST Alarm jusqu'au 4 juin. Bon ajout à n'importe quelle chaîne de mixage.",
         "meta": [
-          "Synthé modulaire",
-          "MAC/PC",
-          "169 €"
+          "Chorus",
+          "VST/AU",
+          "Gratuit jusqu'au 4 juin"
         ],
         "extra": {
           "body": [
-            "Première vraie évolution depuis 2014. Le moteur audio a été ré-écrit en SIMD optimisé Apple Silicon — gain de 38 % en charge CPU annoncé par u-he sur une session test.",
-            "Trois banques d'usine signées Howard Scarr, BT, et James Holden. Mise à jour payante 79 € pour les détenteurs de la v1."
+            "L'offre couvre Mac et Windows, en VST3 et AU. Inscription requise sur VST Alarm — sans CB, sans engagement.",
+            "Le plugin propose un mode mono / stéréo / dual, un LFO bipolaire, et un mode \"width\" particulièrement utile pour les nappes et les guitares clean."
           ],
-          "link": "#"
+          "link": "https://bedroomproducersblog.com/2026/05/22/wa-production-orchid-free/"
         }
       },
       {
-        "name": "iZotope Ozone 12",
+        "name": "LALAL.AI Plugin — version offline",
         "tag": "Mise à jour",
-        "tagClass": "",
-        "desc": "Mastering Assistant repensé sur un modèle de séparation de sources : equalisation contextuelle par stem détecté (voix, drums, bass, harmonique).",
-        "meta": [
-          "Mastering",
-          "Suite Music Production"
-        ],
-        "extra": {
-          "body": [
-            "Le nouvel \"Intent Mode\" produit trois propositions de master à partir d'un brief textuel (« plus chaud », « plus présent », « adapté streaming »).",
-            "Le module Vintage Tape a été ré-échantillonné depuis trois machines réelles (Studer A80, Ampex MM1200, Tascam 388). Différence audible sur les transitoires."
-          ],
-          "link": "#"
-        }
-      },
-      {
-        "name": "Soundtoys Decapitator 2",
-        "tag": "Sortie",
         "tagClass": "hot",
-        "desc": "Le plug-in de saturation devient multi-bande, avec un nouveau mode \"Tube/Tape blend\" et un sidechain interne par bande.",
+        "desc": "Séparation de stems six pistes directement dans la DAW, sans connexion internet. Le calcul tourne désormais en local.",
         "meta": [
-          "Saturation",
-          "199 $"
+          "Séparation IA",
+          "VST/AU/AAX",
+          "Abonnement requis"
         ],
         "extra": {
           "body": [
-            "Première vraie évolution depuis 2009. Soundtoys promet un crossfade analogique sans phase shift entre bandes."
+            "La grosse nouvelle : tout le traitement IA est désormais exécuté localement. Plus de upload vers le cloud — ce qui change radicalement la donne côté confidentialité et latence.",
+            "Six stems : voix, batterie, basse, piano, guitare, autres. Compatible Apple Silicon (gain de performance significatif annoncé)."
           ],
-          "link": "#"
+          "link": "https://bedroomproducersblog.com/2026/05/22/lalal-ai-plugin/"
         }
-      },
-      {
-        "name": "FabFilter Pro-MB 2",
-        "tag": "Mise à jour",
-        "tagClass": "",
-        "desc": "Nouveau dynamic shaping algorithm, latence zéro en mode linear-phase jusqu'à 8 kHz.",
-        "meta": [
-          "Compression multi-bandes",
-          "169 €"
-        ]
       }
     ],
     "synths_midi": [
       {
-        "name": "Arturia KeyLab mk4 88",
-        "tag": "Sortie",
-        "tagClass": "hot",
-        "desc": "Refonte mécanique complète : nouveau clavier Fatar TP/110 pondéré, écran OLED 3,5\", intégration directe Analog Lab Pro 6.",
+        "name": "SLM Audio Gleo",
+        "tag": "Gratuit",
+        "tagClass": "free",
+        "desc": "Instrument virtuel à esthétique \"dystopique\" — synthèse hybride, presets froids, idéal pour bande son et sound design narratif.",
         "meta": [
-          "Contrôleur MIDI 88 touches",
-          "Disponible juin",
-          "899 €"
+          "Virtual instrument",
+          "VST/AU",
+          "Mac/Win"
         ],
         "extra": {
           "body": [
-            "Arturia abandonne enfin son clavier maison au profit d'une mécanique Fatar haut de gamme. C'est probablement le meilleur clavier pondéré sous 1 000 € à l'heure actuelle.",
-            "Inclut une licence complète Analog Lab Pro 6 (valeur 399 €) et un abonnement Sound Studio Pro de six mois."
+            "SLM Audio continue sa lignée de plugins gratuits axés textures cinématiques. Gleo combine un moteur additif simple et un layer granulaire — la marge de design sonore est étonnamment large pour un freebie."
           ],
-          "link": "#"
+          "link": "https://bedroomproducersblog.com/2026/05/21/slm-audio-gleo/"
         }
       },
       {
-        "name": "Sequential Take 6 Polysynth",
-        "tag": "Sortie",
-        "tagClass": "hot",
-        "desc": "Successeur du Prophet-6 : six voix analogiques discrètes, nouveau filtre 4-pôles commutable Curtis/SSI, écran tactile 5\".",
+        "name": "Factor8 Constellations Sequencer",
+        "tag": "Gratuit",
+        "tagClass": "free",
+        "desc": "Séquenceur polyrythmique basé sur l'algorithme euclidien — un outil dont les producteurs IDM et techno expérimentale auront immédiatement l'usage.",
         "meta": [
-          "Synthé analogique",
-          "Polyphonique",
-          "3 799 $"
+          "Séquenceur",
+          "VST/AU",
+          "Polyrythmie"
         ],
         "extra": {
           "body": [
-            "Sortie annoncée pour septembre. Le module externe (Take 6 Desktop) suivra en novembre à 2 999 $.",
-            "Premier polysynth Sequential depuis le rachat par Focusrite à intégrer un séquenceur 64 pas natif et la connectivité USB-C MIDI 2.0."
+            "L'algorithme euclidien répartit N pulsations sur M pas de manière la plus régulière possible — la base mathématique des rythmes africains et balkaniques. Le plugin l'expose sur 8 pistes simultanées avec routage MIDI flexible.",
+            "Implémentation simple mais propre. Pas de prétention, gros potentiel créatif."
           ],
-          "link": "#"
+          "link": "https://bedroomproducersblog.com/2026/05/21/factor8-constellations-sequencer/"
         }
-      },
-      {
-        "name": "ROLI Seaboard Block M",
-        "tag": "Sortie",
-        "tagClass": "",
-        "desc": "Le retour de ROLI avec une surface MPE compacte 24 touches, profondeur réduite de 40 %, batterie 9 h.",
-        "meta": [
-          "Contrôleur MPE",
-          "549 €"
-        ]
-      },
-      {
-        "name": "Korg Wavestate mk2",
-        "tag": "Annonce",
-        "tagClass": "",
-        "desc": "Évolution du synthé wave-sequencing avec 1 Go de samples additionnels et un nouveau moteur de modulation gestuelle.",
-        "meta": [
-          "Synthé wavetable/wave-sequencing",
-          "Q3 2026"
-        ]
       }
     ],
     "daw": [
       {
-        "name": "Ableton Live 12.2",
-        "tag": "Mise à jour",
+        "name": "Note de la rédaction",
+        "tag": "Atelier",
         "tagClass": "",
-        "desc": "Nouveau moteur de comping vocal, refonte du browser, support natif Linux (beta). Le pas franchi est plus large qu'il n'y paraît.",
+        "desc": "Aucune mise à jour majeure de DAW à signaler ce matin. Surveillez la WWDC du 8 juin pour Logic Pro 11.3 et la Loopop Convention pour les annonces Bitwig.",
         "meta": [
-          "DAW",
-          "Gratuite pour Live 12"
-        ],
-        "extra": {
-          "body": [
-            "Le support Linux en beta est sans doute la nouvelle la plus importante : c'est la première fois qu'Ableton ouvre formellement sa DAW à un système non-propriétaire.",
-            "Le comping enfin intégré nativement (sans devoir passer par des takes manuelles) rapproche Live de la maturité de Logic et Pro Tools sur ce point précis."
-          ],
-          "link": "#"
-        }
-      },
-      {
-        "name": "Bitwig Studio 6",
-        "tag": "Sortie",
-        "tagClass": "hot",
-        "desc": "Refonte de The Grid avec primitives ML embarquées, nouveau scripting Lua, MPE étendu sur tous les devices internes.",
-        "meta": [
-          "DAW",
-          "399 €"
-        ]
-      },
-      {
-        "name": "Logic Pro 11.2",
-        "tag": "Mise à jour",
-        "tagClass": "free",
-        "desc": "Nouveau Stem Splitter v3 (séparation 6 stems), Drummer évolué avec presets de genre indé/électronique.",
-        "meta": [
-          "macOS",
-          "Inclus"
+          "À surveiller"
         ]
       }
     ],
     "ai_tools": [
       {
-        "name": "Suno Studio v4",
-        "tag": "Sortie",
-        "tagClass": "hot",
-        "desc": "Premier passage au stem export natif (drums, bass, vox, autres). Le débat sur l'usage en production passe une nouvelle étape.",
+        "name": "SoliderSound Go-Splitter",
+        "tag": "Gratuit",
+        "tagClass": "free",
+        "desc": "App standalone de séparation de stems pour Mac et Windows — alternative gratuite aux services par abonnement.",
         "meta": [
-          "IA générative",
-          "À partir de 24 $/mois"
+          "Stem separation",
+          "Mac/Win",
+          "Standalone"
         ],
         "extra": {
           "body": [
-            "L'export par stem change radicalement la conversation : Suno cesse d'être un générateur de \"morceaux entiers\" pour devenir un fournisseur de matériau brut réintégrable dans une DAW.",
-            "À tester avec prudence côté droits — l'EULA reste flou sur les usages commerciaux à partir de stems retravaillés."
+            "La qualité de séparation reste en-deçà des leaders payants (LALAL.AI, Spleeter pro), mais c'est nettement suffisant pour du repiquage, du remix DJ ou des bouclages live.",
+            "Aucune télémetrie, aucune connexion requise — tout tourne en local."
           ],
-          "link": "#"
+          "link": "https://bedroomproducersblog.com/2026/05/21/solidersound-go-splitter/"
         }
-      },
-      {
-        "name": "Output Co-Producer",
-        "tag": "Sortie",
-        "tagClass": "",
-        "desc": "Plug-in d'arrangement assisté : génère des variations de patterns à partir d'un MIDI source. Étonnamment musical.",
-        "meta": [
-          "VST/AU",
-          "149 $/an"
-        ]
       }
     ],
     "libraries": [
       {
-        "name": "Spitfire Originals — Chamber Strings",
-        "tag": "Sortie",
-        "tagClass": "",
-        "desc": "Nouvelle library de cordes de chambre enregistrée à Air Studios, format léger (4 Go), ergonomie pensée pour la production électronique.",
+        "name": "Krampfstadt Studio — Brick Toys",
+        "tag": "Gratuit",
+        "tagClass": "free",
+        "desc": "Pack d'effets sonores enregistrés sur jouets en plastique (briques type Lego) — textures granulaires inhabituelles, utile pour le foley et le sound design.",
         "meta": [
-          "Sample library",
-          "Kontakt Player",
-          "129 €"
-        ]
-      },
-      {
-        "name": "Output Analog Brass & Winds 2",
-        "tag": "Mise à jour",
-        "tagClass": "",
-        "desc": "Reconception complète du moteur, 22 articulations supplémentaires, intégration native dans Arcade.",
-        "meta": [
-          "Sample library",
-          "Mise à jour 99 $"
-        ]
+          "Sound pack",
+          "WAV",
+          "Gratuit via A Sound Effect"
+        ],
+        "extra": {
+          "body": [
+            "Approche \"objets du quotidien\" classique du sound design contemporain — la matière est différente, l'usage est large. À récupérer même si l'usage immédiat n'est pas évident."
+          ],
+          "link": "https://bedroomproducersblog.com/2026/05/22/krampfstadt-studio-brick-toys/"
+        }
       }
     ]
   },
   "ps5": {
     "lead": {
-      "source": "GamesIndustry.biz",
-      "time": "il y a 6 h",
-      "headline": "Ghost of Yōtei : Sucker Punch livre son meilleur travail — et probablement le jeu PS5 de l'année",
-      "summary": "Verdict unanime de la presse à l'embargo : tableau visuel exceptionnel, structure narrative resserrée, combat polish. Sortie le 30 mai.",
-      "why": "Première vraie démonstration de la fin de cycle PS5 — c'est ce niveau que la concurrence devra atteindre pour exister.",
+      "source": "Push Square",
+      "time": "il y a 4 h",
+      "headline": "Faille de sécurité majeure sur PSN : \"c'est insensé\", tout le monde est exposé",
+      "summary": "Une vulnérabilité par ingénierie sociale a été exposée publiquement — n'importe quel compte PlayStation peut être compromis sans que Sony ait pour l'instant communiqué de correctif.",
+      "why": "Le sujet le plus urgent pour tout détenteur de PS5 ce matin : protéger son compte avant que Sony ne réagisse officiellement. La 2FA, désormais obligatoire de fait.",
       "extra": {
         "body": [
-          "Moyenne presse à 92/100 sur Metacritic après 47 reviews. Eurogamer parle d'une « maîtrise rare de la cinématique gameplay », Gamekult d'un « jeu qui justifie à lui seul une PS5 Pro ».",
-          "La version PS5 Pro inclut un mode 60 fps avec ray tracing partiel — première fois que Sucker Punch propose les deux simultanément."
+          "L'attaque combine du phishing classique avec une faille spécifique du processus de récupération de compte côté PSN. Plusieurs cas documentés cette semaine montrent qu'un compte peut être détourné en moins d'une heure.",
+          "En attendant un correctif de Sony, la seule vraie protection est l'activation de la double authentification par application authentificator (pas SMS, qui reste vulnérable au SIM-swap). À faire ce matin."
         ],
-        "link": "#"
+        "link": "https://www.pushsquare.com/news/2026/05/its-nuts-major-ps5-security-vulnerability-exposed-and-were-all-at-risk"
       }
     },
     "items": [
       {
         "source": "Push Square",
-        "time": "il y a 1 j",
-        "headline": "PS5 Pro firmware 25.06 : Game Boost étendu rétroactivement à 31 titres PS4",
-        "summary": "Sony débloque l'amélioration automatique de framerate sur une nouvelle vague de titres rétrocompatibles, dont Bloodborne enfin à 60 fps.",
-        "why": "Le geste attendu depuis 2020 — qui change l'évaluation rétrospective de toute la bibliothèque.",
+        "time": "il y a 6 h",
+        "headline": "Gothic 1 Remake livré en Game Key Disc — le mécontentement monte sur le marché physique",
+        "summary": "Le remake Gothic est la dernière sortie majeure PS5 à utiliser le format \"Game Key Disc\" qui force un téléchargement à l'achat. Push Square appelle clairement à l'arrêt de la pratique.",
+        "why": "Question de fond pour le marché physique : si même les remakes ne sont plus des vrais disques, le format perd sa raison d'être (revente, conservation, mode hors-ligne).",
         "extra": {
           "body": [
-            "Bloodborne tourne désormais en 1440p / 60 fps stable sur PS5 Pro, sans rachat. La preuve qu'il s'agissait bien d'une décision commerciale, pas technique."
+            "Le \"Game Key Disc\" contient une licence et un installeur — pas le jeu lui-même. À l'extinction des serveurs de l'éditeur, le disque devient inutilisable. Une rupture nette avec la promesse historique du média physique."
           ],
-          "link": "#"
-        }
-      },
-      {
-        "source": "Bloomberg",
-        "time": "il y a 8 h",
-        "headline": "Sony rachète FromSoftware à 9,2 Md$ : la stratégie premium s'accélère",
-        "summary": "Kadokawa cède 100 % du studio Elden Ring après six mois de négociations. Hidetaka Miyazaki conserve la direction créative et un siège au conseil PlayStation Studios.",
-        "why": "La plus grosse acquisition de Sony depuis Bungie. Elle change l'équilibre des forces face à Microsoft pour la prochaine génération.",
-        "extra": {
-          "body": [
-            "FromSoftware rejoint un PlayStation Studios qui compte désormais Naughty Dog, Insomniac, Guerrilla, Sucker Punch, Bungie et — désormais — le studio Souls."
-          ],
-          "link": "#"
-        }
-      },
-      {
-        "source": "IGN",
-        "time": "il y a 12 h",
-        "headline": "Death Stranding 2 : sortie repoussée à septembre",
-        "summary": "Hideo Kojima invoque « les derniers polish nécessaires » et publie une vidéo d'excuses caractéristique. Le délai sera court : six semaines.",
-        "why": "Un signal mineur, mais qui dégage le calendrier de juin/juillet pour Ghost of Yōtei sans concurrence first-party majeure.",
-        "extra": {
-          "body": [
-            "Le délai supplémentaire confirme le travail sur la version PS5 Pro, désormais incluse au lancement comme version technique de référence."
-          ],
-          "link": "#"
+          "link": "https://www.pushsquare.com/news/2026/05/the-most-important-thing-is-people-can-play-at-launch-gothic-ps5-remake-misses-the-mark-with-mandated-download"
         }
       },
       {
         "source": "Eurogamer",
-        "time": "il y a 16 h",
-        "headline": "Indie : « Mirage Atelier » s'impose comme la révélation du mois",
-        "summary": "Le puzzle-narratif du studio toulousain Spectre obtient le PlayStation Indies de juin, et son 92 % sur Steam confirme.",
-        "why": "L'écosystème indie français trouve enfin un canal de distribution PlayStation digne de l'eShop. À suivre.",
+        "time": "hier soir",
+        "headline": "Final Fantasy VII Remake Part 3 : Naoki Hamaguchi confirme un détail clé de la trilogie",
+        "summary": "Le directeur du projet précise la structure de la dernière partie — sans révéler le titre officiel, attendu pour la fin de l'année.",
+        "why": "FF7 Part 3 reste le titre Square Enix le plus important pour 2027. Toute information sur la structure narrative oriente la planification commerciale du studio.",
         "extra": {
           "body": [
-            "Spectre, fondé en 2021, comptait 11 personnes au démarrage de Mirage Atelier. Le succès devrait permettre le passage à la quinzaine."
+            "Hamaguchi confirme que la troisième partie couvrira tout le restant du jeu original — pas de quatrième épisode. Une décision saluée par les fans, qui craignaient un étirement à la \"Final Fantasy XV\"."
           ],
-          "link": "#"
+          "link": "https://www.eurogamer.net/final-fantasy-7-remake-part-3-chadley"
         }
       },
       {
-        "source": "Famitsu",
-        "time": "il y a 1 j",
-        "headline": "Capcom : Monster Hunter Wilds dépasse les 12 millions d'unités",
-        "summary": "Le titre devient la franchise Capcom la plus rapide à atteindre ce seuil, devant Street Fighter 6 et Resident Evil 4 remake.",
-        "why": "Confirme que la stratégie cross-gen Capcom fonctionne — et donne le ton sur les arbitrages d'investissement pour la prochaine fenêtre 2027–2028.",
+        "source": "Eurogamer",
+        "time": "il y a 12 h",
+        "headline": "Nintendo vise 20 millions de Switch 2 d'ici mars 2027 — montée en cadence inédite",
+        "summary": "L'objectif de production révèle l'ambition de Nintendo : reprendre rapidement le terrain perdu pendant la pénurie de composants de 2025.",
+        "why": "Le calendrier de production Switch 2 redessine l'équation budget des éditeurs tiers. Capcom, Square Enix, Sega devront arbitrer leurs portages multi-plateformes plus tôt.",
         "extra": {
           "body": [
-            "72 % des ventes ont été réalisées sur PlayStation, contre 18 % PC et 10 % Xbox — un déséquilibre frappant pour un titre tiers."
+            "20 millions sur un exercice fiscal, c'est plus que les ventes annuelles de PS5 sur sa meilleure année. Si la cadence est tenue, Nintendo aura rattrapé le parc PS5 fin 2027."
           ],
-          "link": "#"
+          "link": "https://www.eurogamer.net/switch-2-production-ramps-up-march-2027"
+        }
+      },
+      {
+        "source": "Eurogamer",
+        "time": "hier",
+        "headline": "Destiny 2 entre dans son crépuscule — Bungie en risque existentiel",
+        "summary": "L'analyse Eurogamer décrit comment la trajectoire commerciale de Destiny 2 menace désormais la survie même de Bungie comme studio.",
+        "why": "Si Bungie traverse l'année, ce sera porté par PlayStation Studios. L'avenir du studio est devenu une question Sony.",
+        "extra": {
+          "body": [
+            "Le ralentissement des ventes du DLC, combiné aux licenciements de 2024-2025, laisse peu de marge de manœuvre. Sony, propriétaire depuis 2022, devra décider rapidement entre intégration complète et autonomie maintenue."
+          ],
+          "link": "https://www.eurogamer.net/bittersweet-farewell-destiny-2"
+        }
+      },
+      {
+        "source": "Eurogamer",
+        "time": "il y a 1 j",
+        "headline": "GTA VI : sortie confirmée pour novembre, la campagne marketing démarre cet été",
+        "summary": "Rockstar maintient sa fenêtre malgré les spéculations — le matraquage promotionnel doit commencer dans les prochaines semaines.",
+        "why": "Le titre va structurer toute la fin d'année 2026 du marché jeu vidéo : éditeurs concurrents repoussent leurs sorties, prix d'attention publicitaire en hausse.",
+        "extra": {
+          "body": [
+            "Aucun nouveau trailer pour l'instant, mais Take-Two confirme que la première vague de matériel marketing arrivera \"cet été\". La date de sortie précise reste sous embargo."
+          ],
+          "link": "https://www.eurogamer.net/gta-6-release-date-reaffirmed"
         }
       }
     ]

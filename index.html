@@ -1288,7 +1288,7 @@ function storyHTML(item, opts = {}) {
       ${item.extra.pullquote ? `<div class="pullquote">${item.extra.pullquote}</div>` : ""}
       <div class="meta-foot">
         ${item.extra.author ? `<span>${item.extra.author}</span>` : ""}
-        <a class="read-original" href="${item.extra.link || "#"}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Lire l'article original →</a>
+        ${item.extra.link && item.extra.link !== "#" ? `<a class="read-original" href="${item.extra.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Lire l'article original →</a>` : ""}
       </div>
     </div></div>` : "";
 
@@ -1315,7 +1315,7 @@ function toolHTML(item) {
     <div class="extra"><div class="extra-inner">
       ${item.extra.body.map(p => `<p>${p}</p>`).join("")}
       <div class="meta-foot">
-        <a class="read-original" href="${item.extra.link || "#"}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Voir la fiche complète →</a>
+        ${item.extra.link && item.extra.link !== "#" ? `<a class="read-original" href="${item.extra.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Voir la fiche complète →</a>` : ""}
       </div>
     </div></div>` : "";
   return `
