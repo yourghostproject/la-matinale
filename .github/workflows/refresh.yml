@@ -1,0 +1,55 @@
+name: Refresh La Matinale
+
+on:
+  # Two UTC slots so that 07:00 Europe/London is always covered,
+  # whether London is on GMT (UTC+0) or BST (UTC+1).
+  # The script itself exits unless the current London hour == TARGET_HOUR.
+  schedule:
+    - cron: "0 6 * * *"   # 07:00 BST (summer) → London 07:00
+    - cron: "0 7 * * *"   # 07:00 GMT (winter) → London 07:00
+  workflow_dispatch:        # allows manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: refresh/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r refresh/requirements.txt
+
+      - name: Regenerate data.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TARGET_HOUR: "7"
+          TZ: Europe/London
+        run: python refresh/refresh.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "La Matinale bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "Aucune modification — édition inchangée."
+          else
+            DATE=$(TZ=Europe/London date +%Y-%m-%d)
+            git commit -m "Édition du $DATE"
+            git push
+          fi

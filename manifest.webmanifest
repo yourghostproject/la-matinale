@@ -1,0 +1,20 @@
+{
+  "name": "La Matinale",
+  "short_name": "Matinale",
+  "description": "Édition matinale curée — un journal du matin fait sur mesure.",
+  "lang": "fr-FR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F1E6CE",
+  "theme_color": "#F1E6CE",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
